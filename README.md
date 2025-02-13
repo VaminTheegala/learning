@@ -1,2 +1,2 @@
 # learning
-created to learn typescript
+created to practice typescript
